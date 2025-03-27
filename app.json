@@ -11,7 +11,7 @@
         "HANDLERS": {
             "description": "Prefix of commands. Can be also false",
             "required": true,
-            "value":".,"
+            "value":"."
         },
         "ANTILINK_WARN": {
             "description": "Groups for antilink (JIDS)",
@@ -71,7 +71,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"237672114754"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
